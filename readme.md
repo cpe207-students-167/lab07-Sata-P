@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : ศตคุณ นนทา
 
-GitHub Page URL : 
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-Sata-P/
 
 ---
 
